@@ -13,6 +13,7 @@
   "icon_background": "#FFFFFF",
   "icon_cover": false,
   "icon": "https://cdn.supervise.ly/img/3d-toolbox.01b2250.png",
+  "poster": "https://user-images.githubusercontent.com/12828725/174101572-55ff22df-9ecd-4b13-b07d-d33104a4db23.png",
   "context_menu": {
     "target": [
       "point_cloud_dataset"
