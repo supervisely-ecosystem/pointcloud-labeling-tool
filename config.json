@@ -1,0 +1,20 @@
+
+{
+  "name": "Pointcloud labeling tool",
+  "type": "annotation_tool",
+  "annotation_tool_type": "point_clouds_v1",
+  "categories": [
+    "neural network",
+    "pointclouds",
+    "annotation tool",
+    "labeling"
+  ],
+  "icon_background": "#FFFFFF",
+  "icon_cover": false,
+  "icon": "https://cdn.supervise.ly/img/3d-toolbox.01b2250.png",
+  "context_menu": {
+    "target": [
+      "point_cloud_dataset"
+    ]
+  }
+}
