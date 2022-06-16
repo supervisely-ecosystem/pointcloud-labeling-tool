@@ -32,8 +32,12 @@ Annotation of point cloud scenes is not an easy task. Inspired by professional s
 <br/>
 <br/>
 
+<div align="center" markdown>
+
 ### POINT CLOUD NAVIGATION & ANNOTATION
 # 3D Object detection and Classification
+
+</div>
 
 Visualization and, especially, labeling of spatial point clouds is not a simple task. Apart from plain and well-understood image labeling, to successfully complete annotation project in 3D space we need to solve three additional challenges and provide:
 
@@ -75,7 +79,7 @@ Provide more information for accurate labeling and identification with photo and
 
 `Object projection on cameras`  |  `Multiple camera views` 
 :---------------:|:-----------------:|
-<img src="https://user-images.githubusercontent.com/106374579/174065016-5a902570-28e6-41ab-9131-be20496b99ff.gif" width="auto" height="auto" width="auto" height="auto"/>  |  <img src="https://user-images.githubusercontent.com/106374579/174065275-0c299938-bb0c-46af-a628-1c414bc99acf.jpeg" width="auto" height="auto"/>
+<img src="https://user-images.githubusercontent.com/106374579/174065016-5a902570-28e6-41ab-9131-be20496b99ff.gif" width="500" height="auto" width="auto" height="auto"/>  |  <img src="https://user-images.githubusercontent.com/106374579/174065275-0c299938-bb0c-46af-a628-1c414bc99acf.jpeg" width="500" height="auto"/>
 
  `Move camera to the same position as you see on a photo`  | 
  |:-----------------:|
@@ -161,4 +165,4 @@ Attach additional information to annotation objects or just tag specific segment
 Object detection, classification and segmentation are not the only tasks solved with Supervisely — there is always more to it!
 `Randomize object colors`  |  `Hotkeys` | `Restore mode` 
 :---------------:|:-----------------:|:-----------------:
-<img src="https://user-images.githubusercontent.com/106374579/174071353-7e53f53d-44e8-46e1-8198-3752960d7f35.gif" width="auto" height="auto" width="500" height="auto"/>  |  <img src="https://user-images.githubusercontent.com/106374579/174071549-5235517d-76e3-4700-b85a-84ae1d6c0f63.jpeg" width="auto" height="auto"/>|  <img src="https://user-images.githubusercontent.com/106374579/174071614-97224fbe-4ad1-414a-a622-d68fcf52f644.jpeg" width="auto" height="auto"/>
+<img src="https://user-images.githubusercontent.com/106374579/174071353-7e53f53d-44e8-46e1-8198-3752960d7f35.gif" width="500" height="auto" width="500" height="auto"/>  |  <img src="https://user-images.githubusercontent.com/106374579/174071549-5235517d-76e3-4700-b85a-84ae1d6c0f63.jpeg" width="500" height="auto"/>|  <img src="https://user-images.githubusercontent.com/106374579/174071614-97224fbe-4ad1-414a-a622-d68fcf52f644.jpeg" width="500" height="auto"/>
