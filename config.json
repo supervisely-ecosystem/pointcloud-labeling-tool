@@ -1,6 +1,6 @@
 
 {
-  "name": "Pointcloud labeling tool",
+  "name": "3D Point Cloud labeling tool",
   "description": "complete solution for LiDAR annotation with photo context",
   "type": "annotation_tool",
   "annotation_tool_type": "point_clouds_v1",
@@ -13,7 +13,7 @@
   "icon_background": "#FFFFFF",
   "icon_cover": false,
   "icon": "https://cdn.supervise.ly/img/3d-toolbox.01b2250.png",
-  "poster": "https://user-images.githubusercontent.com/12828725/174101572-55ff22df-9ecd-4b13-b07d-d33104a4db23.png",
+  "poster": "https://user-images.githubusercontent.com/628181/187225841-679bf77d-673e-4680-8a22-0e83ebe94eb2.jpg",
   "context_menu": {
     "target": [
       "point_cloud_dataset"
