@@ -5,12 +5,12 @@
 Label comprehensive 3D scenes from LiDAR or RADAR sensors with additional photo and video context, AI object tracking and point cloud segmentation.
 
 
-[Learn more ➡️](https://supervise.ly/labeling-toolbox/3d-lidar-sensor-fusion)
+[Learn more ➡️](https://supervisely.com/labeling-toolbox/3d-lidar-sensor-fusion)
 
-[![](https://img.shields.io/badge/supervisely-ecosystem-brightgreen)](https://ecosystem.supervise.ly/apps/supervisely-ecosystem/pointcloud-labeling-tool)
-[![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack)
-[![views](https://app.supervise.ly/img/badges/views/supervisely-ecosystem/pointcloud-labeling-tool.png)](https://supervise.ly)
-[![runs](https://app.supervise.ly/img/badges/runs/supervisely-ecosystem/pointcloud-labeling-tool.png)](https://supervise.ly)
+[![](https://img.shields.io/badge/supervisely-ecosystem-brightgreen)](https://ecosystem.supervisely.com/apps/supervisely-ecosystem/pointcloud-labeling-tool)
+[![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervisely.com/slack)
+[![views](https://app.supervisely.com/img/badges/views/supervisely-ecosystem/pointcloud-labeling-tool.png)](https://supervisely.com)
+[![runs](https://app.supervisely.com/img/badges/runs/supervisely-ecosystem/pointcloud-labeling-tool.png)](https://supervisely.com)
 
 <img src="https://user-images.githubusercontent.com/106374579/174057708-fc7f4673-808a-4ce0-a256-5fe8c0f8f304.jpeg"/>
 </div>
@@ -97,7 +97,7 @@ In many tasks such as autonomous cars localization and mapping (SLAM) and lane d
 
 ## Point cloud episodes
 
-Just like as specially designed [video labeling toolbox](https://supervise.ly/labeling-toolbox/videos) is remarkably more performant than annotation of separate frames in [image toolbox](https://supervise.ly/labeling-toolbox/images), specially designed 3D episodes toolbox is surpassingly more excellent in every aspect from playback speed to tracking performance.
+Just like as specially designed [video labeling toolbox](https://supervisely.com/labeling-toolbox/videos) is remarkably more performant than annotation of separate frames in [image toolbox](https://supervisely.com/labeling-toolbox/images), specially designed 3D episodes toolbox is surpassingly more excellent in every aspect from playback speed to tracking performance.
 
  <img src="https://user-images.githubusercontent.com/106374579/174066950-f725db02-4925-43ab-bf6f-22054c5fc255.gif"/>
 
