@@ -7,7 +7,7 @@ Label comprehensive 3D scenes from LiDAR or RADAR sensors with additional photo 
 
 [Learn more ➡️](https://supervisely.com/labeling-toolbox/3d-lidar-sensor-fusion)
 
-[![](https://img.shields.io/badge/supervisely-ecosystem-brightgreen)](https://ecosystem.supervisely.com/apps/supervisely-ecosystem/pointcloud-labeling-tool)
+[![](https://img.shields.io/badge/supervisely-ecosystem-brightgreen)](../../../../supervisely-ecosystem/pointcloud-labeling-tool)
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervisely.com/slack)
 [![views](https://app.supervisely.com/img/badges/views/supervisely-ecosystem/pointcloud-labeling-tool.png)](https://supervisely.com)
 [![runs](https://app.supervisely.com/img/badges/runs/supervisely-ecosystem/pointcloud-labeling-tool.png)](https://supervisely.com)
